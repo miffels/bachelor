@@ -1,0 +1,1 @@
+START C:\"Program Files"\Java\jdk1.6.0_17\bin\javac.exe @files.txt

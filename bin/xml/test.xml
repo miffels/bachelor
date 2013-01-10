@@ -1,0 +1,16 @@
+<productionBuilding>
+   <id>0</id>
+   <type maxLevel="5" productionTime="180">
+      <type>COKINGPLANT</type>
+      <needsWorker>true</needsWorker>
+      <buildingResources class="java.util.ArrayList">
+         <resource type="WOOD" amount="1"/>
+         <resource type="STONE" amount="1"/>
+      </buildingResources>
+      <inputs class="java.util.ArrayList">
+         <resource type="COALSOURCE" amount="1"/>
+      </inputs>
+      <output type="COAL" amount="1"/>
+   </type>
+   <level>1</level>
+</productionBuilding>
